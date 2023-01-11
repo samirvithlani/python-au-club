@@ -1,0 +1,12 @@
+decsion making statement
+if else
+if condtion{
+    statement
+    }
+else:
+    statement
+#switch case
+loops
+
+logical operators
+and or not
