@@ -1,0 +1,10 @@
+arithmetic operator +,-,*,//,%,**,/
+
+logical operator and,or,not [&&,||,!]
+relational operator <,>,<=,>=,==,!=
+assignment operator =,+=,-=,*=,/=,%=,**=
+bitwise operator &,|,^,~,<<,>>
+conditional operator ?:
+comma operator ,
+membership operator in,not in
+identity operator is,is not
