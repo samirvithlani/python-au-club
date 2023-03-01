@@ -96,3 +96,12 @@ sort --->
 last index 
 25   25 6 th
 
+list ---> 
+remove duplicate element and store it into other list
+find second larget element from list dont use sort function.....no built in function
+find max element from list....
+
+print only even no using list comprehanion
+check all numbers are even or not using list comprehanion
+
+
