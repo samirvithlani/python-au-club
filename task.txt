@@ -105,3 +105,24 @@ print only even no using list comprehanion
 check all numbers are even or not using list comprehanion
 
 
+-------------------
+user elemets --> tuple...
+
+
+4 teams
+each team 11 players once player registerd can not changed....
+2 match should be there 
+bw team 1 and 2   if team 1 win 2 points
+bw team 3 and 4   if team 3 win 2 points
+bw team 1 and 3   if team 1 win 2 points
+winner team
+man of the match
+
+player name
+wickts
+runs
+
+
+
+
+
