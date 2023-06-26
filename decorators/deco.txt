@@ -1,0 +1,4 @@
+decorators in python:
+decorators accept a function as an argument and return a function as a return value.
+decorators are used to modify the functionality of function without changing the function itself.
+decorators denotes by @ symbol.
