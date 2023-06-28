@@ -123,6 +123,15 @@ wickts
 runs
 
 
+count 
+count word
+count palindrome name from string..
+indexOf userDefine
+LastIndexOf userDefine
+
+
+
+
 
 
 
