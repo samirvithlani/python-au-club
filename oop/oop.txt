@@ -1,0 +1,24 @@
+pops -->
+oops -->
+    inheritance
+
+    polymorphism
+         method overloading, operator overloading,
+         method overriding
+    abstraction
+
+    encapsulation
+       class, object,constructor
+
+class: class is group of data members and member functions, 
+       class is blue print of object       
+
+object : object is an entity of class
+
+class    object
+Vehicle   car
+Fruit    mango
+
+School   student
+
+
