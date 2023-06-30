@@ -131,6 +131,40 @@ LastIndexOf userDefine
 
 
 
+create student managaement application using oops :  vedant
+student have fields like name,rollno,marks,grade,email,phone
+functionality
+1. add student
+2. delete student [deleet with name,roleno]
+3. update student
+4. search student   search with name, rolno, range of marks(eg between 50 to 60)
+5. display student
+6. exit
+
+
+create library management application using oops :  devanshi
+book have fields like name,author,price,quantity
+functionality
+1. add book
+2. delete book [deleet with name,author]
+3. update book
+4. search book   search with name, author, range of price(eg between 50 to 60)
+5. display book
+6. exit
+
+employee management application using oops :  ved
+employee have fields like name,empid,designation,salary,phone
+functionality
+1. add employee
+2. delete employee [deleet with name,empid]
+3. update employee
+4. search employee   search with name, empid, range of salary(eg between 50 to 60)
+5. display employee
+6. exit
+
+
+
+
 
 
 
