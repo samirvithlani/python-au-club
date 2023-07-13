@@ -21,4 +21,32 @@ Fruit    mango
 
 School   student
 
+inheritance:
+
+child calass can use prop of parent class is called inheritance
+but parent class can not use prop of child class
+
+use:reusability
+type of :
+single   1 parent 1 child
+multiple
+              1 parent class
+
+       b                        c
+
+                     x    y
+
+                        p
+
+
+
+
+
+multilevel
+a ->b ->c
+hybrid : multiple + multilevel
+hierarchial : 1 parent multiple child
+                            x
+                    y      z     n
+                  10       5    10
 
