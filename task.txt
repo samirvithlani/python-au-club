@@ -165,6 +165,10 @@ functionality
 
 
 
+list ---> elemt --->
+noSuchElement exception
+
+
 
 
 
