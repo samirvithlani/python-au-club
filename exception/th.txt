@@ -1,0 +1,18 @@
+exception: 
+def: exception is process that stops control flow of program
+
+error must be reslove before program can run
+exception need to be handle by programmer
+
+ways to handle exception:
+1. try except
+2. try except else
+3. try except else finally
+4. try except finally
+5. try finally
+
+HYRACHY OF EXCEPTION:
+
+EXCEPTION -> BASE EXCEPTION -> OBJECT
+
+"""
