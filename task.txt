@@ -168,6 +168,11 @@ functionality
 list ---> elemt --->
 noSuchElement exception
 
+task:
+
+1)crate list of users only with palindrome names [*args] UDF  palindrome check
+3)args: return max length name
+
 
 
 
